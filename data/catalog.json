@@ -1,0 +1,7009 @@
+[
+  {
+    "product_id": "SKU-1000",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.95
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.52
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.78
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "natural Masala Blend in pouch",
+      "bg": "white",
+      "px": 500,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Keep in a cool dry place. Single origin. Cold pressed. Net: 100ml. Made of pouch. Saffronleaf Masala Blend"
+  },
+  {
+    "product_id": "SKU-1001",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Insulated Steel Bottle",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.89
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "net_quantity": {
+        "value": "250 piece",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 299,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "sage green Insulated Steel Bottle in borosilicate glass",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Net: 250piece. Keep in a cool dry place. Made of borosilicate glass. Keeps cold 24h. Dishwasher safe. Nordkoda Insulated Steel Bottle"
+  },
+  {
+    "product_id": "SKU-1002",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "product_type": {
+        "value": "Gentle Face Wash",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.88
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "white Gentle Face Wash in bar",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Baraka Botanics Gentle Face Wash Made of bar. Fragrance-free. Dermatologically tested. Net: 750g. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1003",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.92
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "mrp_inr": {
+        "value": 299,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "single origin"
+    ],
+    "image": {
+      "desc": "amber Masala Blend in carton",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Nutriva Masala Blend No added preservatives. Single origin. Net: 250ml. Keep in a cool dry place. Made of carton."
+  },
+  {
+    "product_id": "SKU-1004",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Insulated Steel Bottle",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.89
+      },
+      "material": {
+        "value": "bamboo",
+        "source": "spec_sheet",
+        "confidence": 0.98
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free",
+      "unbreakable guarantee"
+    ],
+    "image": {
+      "desc": "sage green Insulated Steel Bottle in bamboo",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Net: 250ml. Keep in a cool dry place. Dishwasher safe. Bpa-free. Unbreakable guarantee. Hearthline Insulated Steel Bottle Made of bamboo."
+  },
+  {
+    "product_id": "SKU-1005",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": "330 g",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "translucent Vitamin C Serum in bar",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Net: 330g. Keep in a cool dry place. Non-comedogenic. Fragrance-free. Dewlume Vitamin C Serum Made of bar."
+  },
+  {
+    "product_id": "SKU-1006",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.81
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "amber Green Tea in carton",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Amrita Naturals Green Tea Cold pressed. No added preservatives. Net: 500ml. Made of carton. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1007",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "product_type": {
+        "value": "Insulated Steel Bottle",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.86
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.82
+      },
+      "net_quantity": {
+        "value": "1000 ml",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "matte black Insulated Steel Bottle in borosilicate glass",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Dishwasher safe. Keeps cold 24h. Keep in a cool dry place. Luma Insulated Steel Bottle Net: 1000ml. Made of borosilicate glass."
+  },
+  {
+    "product_id": "SKU-1008",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "product_type": {
+        "value": "Argan Hair Oil",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.88
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": "330 g",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": null,
+        "source": "supplier_field",
+        "confidence": 0.0
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "translucent Argan Hair Oil in bar",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Made of bar. Dewlume Argan Hair Oil Keep in a cool dry place. Fragrance-free. Non-comedogenic. Net: 330g."
+  },
+  {
+    "product_id": "SKU-1009",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Organic Honey",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "net_quantity": {
+        "value": "500 g",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Verdano EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "golden Organic Honey in tin",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Keep in a cool dry place. Verdano Organic Honey No added preservatives. Cold pressed. Net: 500g. Made of tin."
+  },
+  {
+    "product_id": "SKU-1010",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Insulated Steel Bottle",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.95
+      },
+      "material": {
+        "value": "ABS plastic",
+        "source": "spec_sheet",
+        "confidence": 0.81
+      },
+      "net_quantity": {
+        "value": "750 ml",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "brushed steel Insulated Steel Bottle in ABS plastic",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": true,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Keep in a cool dry place. Hearthline Insulated Steel Bottle Net: 750ml. Bpa-free. Keeps cold 24h. Made of ABS plastic."
+  },
+  {
+    "product_id": "SKU-1011",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.92
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.81
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "white Mineral Sunscreen SPF50 in bar",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Keep in a cool dry place. Dewlume Mineral Sunscreen SPF50 Non-comedogenic. Fragrance-free. Net: 100ml. Made of bar."
+  },
+  {
+    "product_id": "SKU-1012",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.95
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.82
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "responsible_person_eu": {
+        "value": null,
+        "source": "supplier_field",
+        "confidence": 0.0
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "golden Green Tea in pouch",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Keep in a cool dry place. Net: 100ml. Verdano Green Tea Cold pressed. No added preservatives. Made of pouch."
+  },
+  {
+    "product_id": "SKU-1013",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "product_type": {
+        "value": "Insulated Steel Bottle",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.97
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "net_quantity": {
+        "value": "750 ml",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.8
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "brushed steel Insulated Steel Bottle in 304 stainless steel",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Luma Insulated Steel Bottle Net: 750ml. Keep in a cool dry place. Made of 304 stainless steel. Bpa-free. Keeps cold 24h."
+  },
+  {
+    "product_id": "SKU-1014",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Argan Hair Oil",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "net_quantity": {
+        "value": "250 g",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.82
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "pale gold Argan Hair Oil in bar",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Baraka Botanics Argan Hair Oil Keep in a cool dry place. Made of bar. Fragrance-free. Non-comedogenic. Net: 250g."
+  },
+  {
+    "product_id": "SKU-1015",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "product_type": {
+        "value": "Cold-Pressed Olive Oil",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.83
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "amber Cold-Pressed Olive Oil in pouch",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Keep in a cool dry place. Cold pressed. No added preservatives. Made of pouch. Amrita Naturals Cold-Pressed Olive Oil Net: 200g."
+  },
+  {
+    "product_id": "SKU-1016",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.84
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": null,
+        "source": "supplier_field",
+        "confidence": 0.0
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "ivory LED Desk Lamp in borosilicate glass",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Keep in a cool dry place. Made of borosilicate glass. Net: 250ml. Bpa-free. Keeps cold 24h. Nordkoda LED Desk Lamp"
+  },
+  {
+    "product_id": "SKU-1017",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.83
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.85
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "pale gold Mineral Sunscreen SPF50 in bar",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Net: 200g. Baraka Botanics Mineral Sunscreen SPF50 Keep in a cool dry place. Made of bar. Non-comedogenic. Fragrance-free."
+  },
+  {
+    "product_id": "SKU-1018",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.83
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "330 kg",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.82
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "deep green Masala Blend in pouch",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Net: 330kg. Single origin. Cold pressed. Made of pouch. Nutriva Masala Blend Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1019",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "net_quantity": {
+        "value": "250 piece",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.8
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "sage green LED Desk Lamp in borosilicate glass",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Keep in a cool dry place. Nordkoda LED Desk Lamp Made of borosilicate glass. Net: 250piece. Dishwasher safe. Bpa-free."
+  },
+  {
+    "product_id": "SKU-1020",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Charcoal Soap Bar",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "glass dropper bottle",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "net_quantity": {
+        "value": "250 g",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.79
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic",
+      "medically guaranteed whitening"
+    ],
+    "image": {
+      "desc": "white Charcoal Soap Bar in glass dropper bottle",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Fragrance-free. Non-comedogenic. Medically guaranteed whitening. Made of glass dropper bottle. Keep in a cool dry place. Net: 250g. Baraka Botanics Charcoal Soap Bar"
+  },
+  {
+    "product_id": "SKU-1021",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Organic Honey",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.96
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "net_quantity": {
+        "value": "330 kg",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "single origin"
+    ],
+    "image": {
+      "desc": "deep green Organic Honey in pouch",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Made of pouch. Keep in a cool dry place. Net: 330kg. Saffronleaf Organic Honey No added preservatives. Single origin."
+  },
+  {
+    "product_id": "SKU-1022",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": "1000 piece",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "matte black LED Desk Lamp in borosilicate glass",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Made of borosilicate glass. Net: 1000piece. Keep in a cool dry place. Bpa-free. Dishwasher safe. Luma LED Desk Lamp"
+  },
+  {
+    "product_id": "SKU-1023",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Pure & Co",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.92
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "1000 g",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "manufacturer_or_importer": {
+        "value": "Pure & Co Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Pure & Co EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "white Mineral Sunscreen SPF50 in bar",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Net: 1000g. Dermatologically tested. Fragrance-free. Pure & Co Mineral Sunscreen SPF50 Made of bar. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1024",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.8
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      },
+      "net_quantity": {
+        "value": "250 kg",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "amber Masala Blend in tin",
+      "bg": "grey",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Net: 250kg. Single origin. No added preservatives. Amrita Naturals Masala Blend Keep in a cool dry place. Made of tin."
+  },
+  {
+    "product_id": "SKU-1025",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "net_quantity": {
+        "value": "200 ml",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "ivory LED Desk Lamp in cast iron",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Keep in a cool dry place. Keeps cold 24h. Dishwasher safe. Made of cast iron. Net: 200ml. Hearthline LED Desk Lamp"
+  },
+  {
+    "product_id": "SKU-1026",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.98
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "100 g",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "pale gold Vitamin C Serum in pump bottle",
+      "bg": "grey",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Net: 100g. Made of pump bottle. Dermatologically tested. Non-comedogenic. Keep in a cool dry place. Baraka Botanics Vitamin C Serum"
+  },
+  {
+    "product_id": "SKU-1027",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "net_quantity": {
+        "value": "750 kg",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "responsible_person_eu": {
+        "value": "Verdano EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "deep green Green Tea in tin",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Single origin. No added preservatives. Made of tin. Verdano Green Tea Net: 750kg. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1028",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Ceramic Knife Set",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "ABS plastic",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "1000 piece",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.98
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe",
+      "unbreakable guarantee"
+    ],
+    "image": {
+      "desc": "brushed steel Ceramic Knife Set in ABS plastic",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Net: 1000piece. Grove & Vale Ceramic Knife Set Keep in a cool dry place. Keeps cold 24h. Dishwasher safe. Unbreakable guarantee. Made of ABS plastic."
+  },
+  {
+    "product_id": "SKU-1029",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.99
+      },
+      "material": {
+        "value": "tube",
+        "source": "spec_sheet",
+        "confidence": 0.82
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "translucent Mineral Sunscreen SPF50 in tube",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Net: 500ml. Keep in a cool dry place. Dewlume Mineral Sunscreen SPF50 Non-comedogenic. Fragrance-free. Made of tube."
+  },
+  {
+    "product_id": "SKU-1030",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.89
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "net_quantity": {
+        "value": "330 kg",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "amber Green Tea in pouch",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Net: 330kg. Amrita Naturals Green Tea Made of pouch. Single origin. No added preservatives. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1031",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.81
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "ivory LED Desk Lamp in cast iron",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": true,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Made of cast iron. Net: 500ml. Bpa-free. Keeps cold 24h. Keep in a cool dry place. Nordkoda LED Desk Lamp"
+  },
+  {
+    "product_id": "SKU-1032",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "charcoal grey",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "charcoal grey Mineral Sunscreen SPF50 in pump bottle",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Baraka Botanics Mineral Sunscreen SPF50 Fragrance-free. Dermatologically tested. Net: 100ml. Keep in a cool dry place. Made of pump bottle."
+  },
+  {
+    "product_id": "SKU-1033",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.99
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "net_quantity": {
+        "value": "500 g",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.81
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "natural Green Tea in tin",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Keep in a cool dry place. Single origin. Cold pressed. Net: 500g. Amrita Naturals Green Tea Made of tin."
+  },
+  {
+    "product_id": "SKU-1034",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Cast-Iron Skillet",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.95
+      },
+      "material": {
+        "value": "bamboo",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "200 cm",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "matte black Cast-Iron Skillet in bamboo",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Made of bamboo. Keep in a cool dry place. Net: 200cm. Nordkoda Cast-Iron Skillet Dishwasher safe. Keeps cold 24h."
+  },
+  {
+    "product_id": "SKU-1035",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Charcoal Soap Bar",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "charcoal grey",
+        "source": "image",
+        "confidence": 0.82
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "charcoal grey Charcoal Soap Bar in pump bottle",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Made of pump bottle. Keep in a cool dry place. Dermatologically tested. Non-comedogenic. Baraka Botanics Charcoal Soap Bar Net: 500ml."
+  },
+  {
+    "product_id": "SKU-1036",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Roasted Almonds",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.97
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": null,
+        "source": "supplier_field",
+        "confidence": 0.0
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Verdano EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "deep green Roasted Almonds in pouch",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Keep in a cool dry place. Net: 750g. Made of pouch. Single origin. No added preservatives. Verdano Roasted Almonds"
+  },
+  {
+    "product_id": "SKU-1037",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Ceramic Knife Set",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.92
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "net_quantity": {
+        "value": "1000 piece",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.75
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "sage green Ceramic Knife Set in 304 stainless steel",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Made of 304 stainless steel. Hearthline Ceramic Knife Set Keeps cold 24h. Dishwasher safe. Keep in a cool dry place. Net: 1000piece."
+  },
+  {
+    "product_id": "SKU-1038",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "charcoal grey",
+        "source": "image",
+        "confidence": 0.97
+      },
+      "material": {
+        "value": "tube",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.78
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "charcoal grey Mineral Sunscreen SPF50 in tube",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Dermatologically tested. Non-comedogenic. Dewlume Mineral Sunscreen SPF50 Keep in a cool dry place. Net: 250ml. Made of tube."
+  },
+  {
+    "product_id": "SKU-1039",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Roasted Almonds",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "glass jar",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.83
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "natural Roasted Almonds in glass jar",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Made of glass jar. Single origin. No added preservatives. Keep in a cool dry place. Net: 750g. Nutriva Roasted Almonds"
+  },
+  {
+    "product_id": "SKU-1040",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Glass Storage Jar",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "100 piece",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "ivory Glass Storage Jar in 304 stainless steel",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Bpa-free. Keeps cold 24h. Net: 100piece. Keep in a cool dry place. Made of 304 stainless steel. Grove & Vale Glass Storage Jar"
+  },
+  {
+    "product_id": "SKU-1041",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.96
+      },
+      "material": {
+        "value": "glass dropper bottle",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "net_quantity": {
+        "value": "750 ml",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "pale gold Mineral Sunscreen SPF50 in glass dropper bottle",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Net: 750ml. Made of glass dropper bottle. Keep in a cool dry place. Non-comedogenic. Dermatologically tested. Baraka Botanics Mineral Sunscreen SPF50"
+  },
+  {
+    "product_id": "SKU-1042",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.89
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "natural Green Tea in pouch",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Keep in a cool dry place. Amrita Naturals Green Tea Single origin. Cold pressed. Net: 100ml. Made of pouch."
+  },
+  {
+    "product_id": "SKU-1043",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "bamboo",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "250 cm",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "sage green LED Desk Lamp in bamboo",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Net: 250cm. Dishwasher safe. Bpa-free. Hearthline LED Desk Lamp Made of bamboo. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1044",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Argan Hair Oil",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.83
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "dermatologically tested",
+      "removes all wrinkles in 7 days"
+    ],
+    "image": {
+      "desc": "pale gold Argan Hair Oil in bar",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Fragrance-free. Dermatologically tested. Removes all wrinkles in 7 days. Made of bar. Net: 750g. Keep in a cool dry place. Baraka Botanics Argan Hair Oil"
+  },
+  {
+    "product_id": "SKU-1045",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "product_type": {
+        "value": "Cold-Pressed Olive Oil",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.92
+      },
+      "material": {
+        "value": "glass jar",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Verdano EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "single origin"
+    ],
+    "image": {
+      "desc": "amber Cold-Pressed Olive Oil in glass jar",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Verdano Cold-Pressed Olive Oil Made of glass jar. Net: 250ml. Keep in a cool dry place. No added preservatives. Single origin."
+  },
+  {
+    "product_id": "SKU-1046",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "net_quantity": {
+        "value": "200 ml",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "ivory Bamboo Chopping Board in borosilicate glass",
+      "bg": "white",
+      "px": 500,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Net: 200ml. Grove & Vale Bamboo Chopping Board Keep in a cool dry place. Bpa-free. Keeps cold 24h. Made of borosilicate glass."
+  },
+  {
+    "product_id": "SKU-1047",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Lushen",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Gentle Face Wash",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "net_quantity": {
+        "value": "250 g",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Lushen Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Lushen EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "white Gentle Face Wash in bar",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Made of bar. Lushen Gentle Face Wash Net: 250g. Fragrance-free. Dermatologically tested. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1048",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "product_type": {
+        "value": "Roasted Almonds",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "glass jar",
+        "source": "spec_sheet",
+        "confidence": 0.4
+      },
+      "net_quantity": {
+        "value": "100 kg",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "amber Roasted Almonds in glass jar",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Net: 100kg. Saffronleaf Roasted Almonds Made of glass jar. Keep in a cool dry place. Single origin. No added preservatives."
+  },
+  {
+    "product_id": "SKU-1049",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Cast-Iron Skillet",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.99
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "brushed steel Cast-Iron Skillet in cast iron",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Nordkoda Cast-Iron Skillet Net: 100ml. Keep in a cool dry place. Made of cast iron. Keeps cold 24h. Dishwasher safe."
+  },
+  {
+    "product_id": "SKU-1050",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Gentle Face Wash",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.93
+      },
+      "material": {
+        "value": "tube",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "pale gold Gentle Face Wash in tube",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Made of tube. Non-comedogenic. Dermatologically tested. Keep in a cool dry place. Baraka Botanics Gentle Face Wash Net: 250ml."
+  },
+  {
+    "product_id": "SKU-1051",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Basmati Rice",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.81
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "single origin"
+    ],
+    "image": {
+      "desc": "deep green Basmati Rice in pouch",
+      "bg": "grey",
+      "px": 500,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "No added preservatives. Single origin. Keep in a cool dry place. Made of pouch. Saffronleaf Basmati Rice Net: 200g."
+  },
+  {
+    "product_id": "SKU-1052",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "bamboo",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "500 piece",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "BPA-free",
+      "lasts a lifetime, certified"
+    ],
+    "image": {
+      "desc": "ivory Bamboo Chopping Board in bamboo",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Keeps cold 24h. Bpa-free. Lasts a lifetime, certified. Keep in a cool dry place. Net: 500piece. Made of bamboo. Hearthline Bamboo Chopping Board"
+  },
+  {
+    "product_id": "SKU-1053",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.97
+      },
+      "material": {
+        "value": "glass dropper bottle",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.75
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "pale gold Vitamin C Serum in glass dropper bottle",
+      "bg": "grey",
+      "px": 500,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Net: 500ml. Made of glass dropper bottle. Keep in a cool dry place. Dewlume Vitamin C Serum Fragrance-free. Non-comedogenic."
+  },
+  {
+    "product_id": "SKU-1054",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Basmati Rice",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.89
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.82
+      },
+      "net_quantity": {
+        "value": "100 kg",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.83
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "deep green Basmati Rice in carton",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Net: 100kg. Nutriva Basmati Rice Keep in a cool dry place. Made of carton. Cold pressed. No added preservatives."
+  },
+  {
+    "product_id": "SKU-1055",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.86
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "net_quantity": {
+        "value": "330 ml",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "brushed steel LED Desk Lamp in 304 stainless steel",
+      "bg": "grey",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Net: 330ml. Grove & Vale LED Desk Lamp Made of 304 stainless steel. Keep in a cool dry place. Keeps cold 24h. Dishwasher safe."
+  },
+  {
+    "product_id": "SKU-1056",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "charcoal grey",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "tube",
+        "source": "spec_sheet",
+        "confidence": 0.41
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "charcoal grey Vitamin C Serum in tube",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Fragrance-free. Non-comedogenic. Made of tube. Net: 750g. Keep in a cool dry place. Baraka Botanics Vitamin C Serum"
+  },
+  {
+    "product_id": "SKU-1057",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Organic Honey",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "glass jar",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "net_quantity": {
+        "value": "200 ml",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "responsible_person_eu": {
+        "value": "Verdano EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "golden Organic Honey in glass jar",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Cold pressed. No added preservatives. Net: 200ml. Keep in a cool dry place. Verdano Organic Honey Made of glass jar."
+  },
+  {
+    "product_id": "SKU-1058",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "bamboo",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "330 piece",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "matte black Bamboo Chopping Board in bamboo",
+      "bg": "grey",
+      "px": 400,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Net: 330piece. Made of bamboo. Keep in a cool dry place. Luma Bamboo Chopping Board Bpa-free. Dishwasher safe."
+  },
+  {
+    "product_id": "SKU-1059",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Charcoal Soap Bar",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "charcoal grey",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "charcoal grey Charcoal Soap Bar in pump bottle",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Dermatologically tested. Non-comedogenic. Made of pump bottle. Dewlume Charcoal Soap Bar Net: 750g. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1060",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.98
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.46
+      },
+      "net_quantity": {
+        "value": "100 g",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "golden Masala Blend in pouch",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Made of pouch. Cold pressed. No added preservatives. Net: 100g. Keep in a cool dry place. Saffronleaf Masala Blend"
+  },
+  {
+    "product_id": "SKU-1061",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.93
+      },
+      "material": {
+        "value": "ABS plastic",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "100 cm",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "ivory LED Desk Lamp in ABS plastic",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Bpa-free. Dishwasher safe. Keep in a cool dry place. Grove & Vale LED Desk Lamp Made of ABS plastic. Net: 100cm."
+  },
+  {
+    "product_id": "SKU-1062",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Lushen",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Argan Hair Oil",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.98
+      },
+      "material": {
+        "value": "tube",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "mrp_inr": {
+        "value": 299,
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "manufacturer_or_importer": {
+        "value": "Lushen Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Lushen EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "pale gold Argan Hair Oil in tube",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": true,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Made of tube. Net: 500ml. Keep in a cool dry place. Lushen Argan Hair Oil Dermatologically tested. Fragrance-free."
+  },
+  {
+    "product_id": "SKU-1063",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "330 ml",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "single origin"
+    ],
+    "image": {
+      "desc": "natural Masala Blend in carton",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Made of carton. No added preservatives. Single origin. Nutriva Masala Blend Net: 330ml. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1064",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "100 piece",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "responsible_person_eu": {
+        "value": null,
+        "source": "supplier_field",
+        "confidence": 0.0
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "brushed steel Bamboo Chopping Board in 304 stainless steel",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Grove & Vale Bamboo Chopping Board Dishwasher safe. Keeps cold 24h. Made of 304 stainless steel. Net: 100piece. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1065",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Argan Hair Oil",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.88
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.77
+      },
+      "net_quantity": {
+        "value": "330 ml",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "translucent Argan Hair Oil in pump bottle",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Made of pump bottle. Net: 330ml. Dewlume Argan Hair Oil Keep in a cool dry place. Fragrance-free. Non-comedogenic."
+  },
+  {
+    "product_id": "SKU-1066",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Verdano",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.99
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.81
+      },
+      "net_quantity": {
+        "value": "1000 g",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Verdano Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Verdano EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "natural Green Tea in tin",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Keep in a cool dry place. Net: 1000g. Cold pressed. No added preservatives. Verdano Green Tea Made of tin."
+  },
+  {
+    "product_id": "SKU-1067",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Ceramic Knife Set",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.99
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "net_quantity": {
+        "value": "1000 cm",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "matte black Ceramic Knife Set in borosilicate glass",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Keeps cold 24h. Bpa-free. Made of borosilicate glass. Nordkoda Ceramic Knife Set Keep in a cool dry place. Net: 1000cm."
+  },
+  {
+    "product_id": "SKU-1068",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Lushen",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Aloe Body Lotion",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.86
+      },
+      "material": {
+        "value": "tube",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "manufacturer_or_importer": {
+        "value": "Lushen Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Lushen EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.98
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "translucent Aloe Body Lotion in tube",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Lushen Aloe Body Lotion Fragrance-free. Dermatologically tested. Made of tube. Keep in a cool dry place. Net: 200g."
+  },
+  {
+    "product_id": "SKU-1069",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "product_type": {
+        "value": "Cold-Pressed Olive Oil",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "330 kg",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "amber Cold-Pressed Olive Oil in carton",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Saffronleaf Cold-Pressed Olive Oil Keep in a cool dry place. No added preservatives. Cold pressed. Made of carton. Net: 330kg."
+  },
+  {
+    "product_id": "SKU-1070",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "product_type": {
+        "value": "Cast-Iron Skillet",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "net_quantity": {
+        "value": "330 piece",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "matte black Cast-Iron Skillet in cast iron",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Keep in a cool dry place. Made of cast iron. Grove & Vale Cast-Iron Skillet Dishwasher safe. Bpa-free. Net: 330piece."
+  },
+  {
+    "product_id": "SKU-1071",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Pure & Co",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "330 ml",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Pure & Co Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "responsible_person_eu": {
+        "value": "Pure & Co EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "translucent Vitamin C Serum in pump bottle",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Net: 330ml. Non-comedogenic. Dermatologically tested. Made of pump bottle. Keep in a cool dry place. Pure & Co Vitamin C Serum"
+  },
+  {
+    "product_id": "SKU-1072",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Roasted Almonds",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.84
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      },
+      "net_quantity": {
+        "value": "500 ml",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.83
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "no added preservatives",
+      "cures diabetes"
+    ],
+    "image": {
+      "desc": "deep green Roasted Almonds in pouch",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Net: 500ml. Cold pressed. No added preservatives. Cures diabetes. Keep in a cool dry place. Made of pouch. Saffronleaf Roasted Almonds"
+  },
+  {
+    "product_id": "SKU-1073",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "330 ml",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.98
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "brushed steel Bamboo Chopping Board in cast iron",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Net: 330ml. Luma Bamboo Chopping Board Made of cast iron. Keeps cold 24h. Bpa-free. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1074",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Gentle Face Wash",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "mrp_inr": {
+        "value": 299,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "pale gold Gentle Face Wash in bar",
+      "bg": "grey",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Dewlume Gentle Face Wash Keep in a cool dry place. Non-comedogenic. Fragrance-free. Made of bar. Net: 750g."
+  },
+  {
+    "product_id": "SKU-1075",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "net_quantity": {
+        "value": "1000 g",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.81
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "single origin"
+    ],
+    "image": {
+      "desc": "natural Green Tea in pouch",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "No added preservatives. Single origin. Keep in a cool dry place. Made of pouch. Nutriva Green Tea Net: 1000g."
+  },
+  {
+    "product_id": "SKU-1076",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Glass Storage Jar",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.93
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "net_quantity": {
+        "value": "750 ml",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "country_of_origin": {
+        "value": null,
+        "source": "supplier_field",
+        "confidence": 0.0
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "brushed steel Glass Storage Jar in borosilicate glass",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": true,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Dishwasher safe. Bpa-free. Made of borosilicate glass. Net: 750ml. Grove & Vale Glass Storage Jar Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1077",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Lushen",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.97
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "330 ml",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.82
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Lushen Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Lushen EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "white Vitamin C Serum in pump bottle",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Keep in a cool dry place. Non-comedogenic. Dermatologically tested. Net: 330ml. Lushen Vitamin C Serum Made of pump bottle."
+  },
+  {
+    "product_id": "SKU-1078",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Green Tea",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "natural",
+        "source": "image",
+        "confidence": 0.95
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "500 g",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "natural Green Tea in carton",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Keep in a cool dry place. Net: 500g. Amrita Naturals Green Tea Single origin. No added preservatives. Made of carton."
+  },
+  {
+    "product_id": "SKU-1079",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "product_type": {
+        "value": "Glass Storage Jar",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.86
+      },
+      "material": {
+        "value": "borosilicate glass",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "net_quantity": {
+        "value": "1000 cm",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.82
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "matte black Glass Storage Jar in borosilicate glass",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Keep in a cool dry place. Dishwasher safe. Bpa-free. Luma Glass Storage Jar Net: 1000cm. Made of borosilicate glass."
+  },
+  {
+    "product_id": "SKU-1080",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.77
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      }
+    },
+    "supplier_claims": [
+      "fragrance-free",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "translucent Vitamin C Serum in bar",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Keep in a cool dry place. Made of bar. Fragrance-free. Non-comedogenic. Dewlume Vitamin C Serum Net: 200g."
+  },
+  {
+    "product_id": "SKU-1081",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Organic Honey",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "color": {
+        "value": "amber",
+        "source": "image",
+        "confidence": 0.86
+      },
+      "material": {
+        "value": "pouch",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "net_quantity": {
+        "value": "250 g",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.8
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "amber Organic Honey in pouch",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "amber"
+    },
+    "raw_text": "Single origin. Cold pressed. Made of pouch. Keep in a cool dry place. Amrita Naturals Organic Honey Net: 250g."
+  },
+  {
+    "product_id": "SKU-1082",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nordkoda",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Cast-Iron Skillet",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "color": {
+        "value": "matte black",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      },
+      "net_quantity": {
+        "value": "1000 cm",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Nordkoda Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "responsible_person_eu": {
+        "value": "Nordkoda EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "matte black Cast-Iron Skillet in 304 stainless steel",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "matte black"
+    },
+    "raw_text": "Keep in a cool dry place. Made of 304 stainless steel. Net: 1000cm. Keeps cold 24h. Bpa-free. Nordkoda Cast-Iron Skillet"
+  },
+  {
+    "product_id": "SKU-1083",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Pure & Co",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Vitamin C Serum",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "color": {
+        "value": "translucent",
+        "source": "image",
+        "confidence": 0.84
+      },
+      "material": {
+        "value": "glass dropper bottle",
+        "source": "spec_sheet",
+        "confidence": 0.75
+      },
+      "net_quantity": {
+        "value": "250 ml",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.82
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Pure & Co Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.88
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Pure & Co EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "translucent Vitamin C Serum in glass dropper bottle",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "translucent"
+    },
+    "raw_text": "Non-comedogenic. Fragrance-free. Net: 250ml. Made of glass dropper bottle. Pure & Co Vitamin C Serum Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1084",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Nutriva",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.84
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.77
+      },
+      "net_quantity": {
+        "value": "500 g",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Nutriva Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.8
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "responsible_person_eu": {
+        "value": "Nutriva EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "cold pressed",
+      "boosts immunity by 200%"
+    ],
+    "image": {
+      "desc": "deep green Masala Blend in tin",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Keep in a cool dry place. Made of tin. Nutriva Masala Blend No added preservatives. Cold pressed. Boosts immunity by 200%. Net: 500g."
+  },
+  {
+    "product_id": "SKU-1085",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Cast-Iron Skillet",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "color": {
+        "value": "ivory",
+        "source": "image",
+        "confidence": 0.88
+      },
+      "material": {
+        "value": "ABS plastic",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "net_quantity": {
+        "value": "100 piece",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.84
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.85
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.8
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "ivory Cast-Iron Skillet in ABS plastic",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Made of ABS plastic. Keep in a cool dry place. Hearthline Cast-Iron Skillet Net: 100piece. Bpa-free. Keeps cold 24h."
+  },
+  {
+    "product_id": "SKU-1086",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Dewlume",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Aloe Body Lotion",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.83
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "200 ml",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "mrp_inr": {
+        "value": 899,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Dewlume Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Dewlume EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.97
+      }
+    },
+    "supplier_claims": [
+      "dermatologically tested",
+      "non-comedogenic"
+    ],
+    "image": {
+      "desc": "pale gold Aloe Body Lotion in bar",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Dewlume Aloe Body Lotion Keep in a cool dry place. Dermatologically tested. Non-comedogenic. Made of bar. Net: 200ml."
+  },
+  {
+    "product_id": "SKU-1087",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Masala Blend",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "net_quantity": {
+        "value": "750 ml",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.87
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "no added preservatives",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "golden Masala Blend in tin",
+      "bg": "grey",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Amrita Naturals Masala Blend No added preservatives. Cold pressed. Made of tin. Net: 750ml. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1088",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.96
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "750 ml",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.93
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.83
+      }
+    },
+    "supplier_claims": [
+      "dishwasher safe",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "brushed steel Bamboo Chopping Board in cast iron",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "ivory"
+    },
+    "raw_text": "Net: 750ml. Grove & Vale Bamboo Chopping Board Keep in a cool dry place. Dishwasher safe. Bpa-free. Made of cast iron."
+  },
+  {
+    "product_id": "SKU-1089",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Aloe Body Lotion",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "pale gold",
+        "source": "image",
+        "confidence": 0.88
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "250 g",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 199,
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.81
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "pale gold Aloe Body Lotion in pump bottle",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "pale gold"
+    },
+    "raw_text": "Made of pump bottle. Keep in a cool dry place. Baraka Botanics Aloe Body Lotion Non-comedogenic. Dermatologically tested. Net: 250g."
+  },
+  {
+    "product_id": "SKU-1090",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "product_type": {
+        "value": "Basmati Rice",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.84
+      },
+      "material": {
+        "value": "tin",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      },
+      "net_quantity": {
+        "value": "250 kg",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 699,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.98
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "no added preservatives"
+    ],
+    "image": {
+      "desc": "golden Basmati Rice in tin",
+      "bg": "grey",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Net: 250kg. Keep in a cool dry place. Single origin. No added preservatives. Saffronleaf Basmati Rice Made of tin."
+  },
+  {
+    "product_id": "SKU-1091",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Grove & Vale",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "LED Desk Lamp",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "brushed steel",
+        "source": "image",
+        "confidence": 0.85
+      },
+      "material": {
+        "value": "cast iron",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": "750 piece",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.83
+      },
+      "manufacturer_or_importer": {
+        "value": "Grove & Vale Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "responsible_person_eu": {
+        "value": "Grove & Vale EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "dishwasher safe"
+    ],
+    "image": {
+      "desc": "brushed steel LED Desk Lamp in cast iron",
+      "bg": "grey",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "brushed steel"
+    },
+    "raw_text": "Keeps cold 24h. Dishwasher safe. Grove & Vale LED Desk Lamp Made of cast iron. Net: 750piece. Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1092",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Baraka Botanics",
+        "source": "supplier_field",
+        "confidence": 0.96
+      },
+      "product_type": {
+        "value": "Aloe Body Lotion",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "color": {
+        "value": "charcoal grey",
+        "source": "image",
+        "confidence": 0.94
+      },
+      "material": {
+        "value": "bar",
+        "source": "spec_sheet",
+        "confidence": 0.5
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "manufacturer_or_importer": {
+        "value": "Baraka Botanics Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.8
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Baraka Botanics EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "charcoal grey Aloe Body Lotion in bar",
+      "bg": "grey",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "charcoal grey"
+    },
+    "raw_text": "Made of bar. Net: 200g. Non-comedogenic. Fragrance-free. Baraka Botanics Aloe Body Lotion Keep in a cool dry place."
+  },
+  {
+    "product_id": "SKU-1093",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Saffronleaf",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Roasted Almonds",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.87
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      },
+      "net_quantity": {
+        "value": "1000 g",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "manufacturer_or_importer": {
+        "value": "Saffronleaf Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "responsible_person_eu": {
+        "value": "Saffronleaf EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "golden Roasted Almonds in carton",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "golden"
+    },
+    "raw_text": "Net: 1000g. Keep in a cool dry place. Single origin. Cold pressed. Saffronleaf Roasted Almonds Made of carton."
+  },
+  {
+    "product_id": "SKU-1094",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Luma",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Bamboo Chopping Board",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.81
+      },
+      "material": {
+        "value": "bamboo",
+        "source": "spec_sheet",
+        "confidence": 0.81
+      },
+      "net_quantity": {
+        "value": "1000 cm",
+        "source": "supplier_field",
+        "confidence": 0.98
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "mrp_inr": {
+        "value": 1299,
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "manufacturer_or_importer": {
+        "value": "Luma Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.95
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.86
+      },
+      "responsible_person_eu": {
+        "value": "Luma EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.89
+      }
+    },
+    "supplier_claims": [
+      "keeps cold 24h",
+      "BPA-free"
+    ],
+    "image": {
+      "desc": "sage green Bamboo Chopping Board in bamboo",
+      "bg": "white",
+      "px": 1500,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Luma Bamboo Chopping Board Keep in a cool dry place. Keeps cold 24h. Bpa-free. Net: 1000cm. Made of bamboo."
+  },
+  {
+    "product_id": "SKU-1095",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Lushen",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Aloe Body Lotion",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.92
+      },
+      "material": {
+        "value": "glass dropper bottle",
+        "source": "spec_sheet",
+        "confidence": 0.92
+      },
+      "net_quantity": {
+        "value": "330 g",
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "country_of_origin": {
+        "value": "United Arab Emirates",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Lushen Pvt Ltd, United Arab Emirates",
+        "source": "spec_sheet",
+        "confidence": 0.96
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.91
+      },
+      "responsible_person_eu": {
+        "value": "Lushen EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.91
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "fragrance-free"
+    ],
+    "image": {
+      "desc": "white Aloe Body Lotion in glass dropper bottle",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Non-comedogenic. Fragrance-free. Made of glass dropper bottle. Lushen Aloe Body Lotion Keep in a cool dry place. Net: 330g."
+  },
+  {
+    "product_id": "SKU-1096",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Cold-Pressed Olive Oil",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "golden",
+        "source": "image",
+        "confidence": 0.91
+      },
+      "material": {
+        "value": "carton",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "500 kg",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "country_of_origin": {
+        "value": "India",
+        "source": "supplier_field",
+        "confidence": 0.82
+      },
+      "mrp_inr": {
+        "value": 149,
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, India",
+        "source": "spec_sheet",
+        "confidence": 0.82
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.93
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "single origin",
+      "cold pressed"
+    ],
+    "image": {
+      "desc": "golden Cold-Pressed Olive Oil in carton",
+      "bg": "white",
+      "px": 1000,
+      "text_overlay": false,
+      "shows_color": "natural"
+    },
+    "raw_text": "Made of carton. Amrita Naturals Cold-Pressed Olive Oil Net: 500kg. Keep in a cool dry place. Single origin. Cold pressed."
+  },
+  {
+    "product_id": "SKU-1097",
+    "category": "home_kitchen",
+    "category_label": "Home & Kitchen",
+    "regulated": false,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Hearthline",
+        "source": "supplier_field",
+        "confidence": 0.97
+      },
+      "product_type": {
+        "value": "Ceramic Knife Set",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "color": {
+        "value": "sage green",
+        "source": "image",
+        "confidence": 0.93
+      },
+      "material": {
+        "value": "304 stainless steel",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "100 ml",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "country_of_origin": {
+        "value": "Spain",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.89
+      },
+      "manufacturer_or_importer": {
+        "value": "Hearthline Pvt Ltd, Spain",
+        "source": "spec_sheet",
+        "confidence": 0.84
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.85
+      },
+      "responsible_person_eu": {
+        "value": "Hearthline EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.99
+      }
+    },
+    "supplier_claims": [
+      "BPA-free",
+      "keeps cold 24h"
+    ],
+    "image": {
+      "desc": "sage green Ceramic Knife Set in 304 stainless steel",
+      "bg": "white",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "sage green"
+    },
+    "raw_text": "Keep in a cool dry place. Net: 100ml. Bpa-free. Keeps cold 24h. Hearthline Ceramic Knife Set Made of 304 stainless steel."
+  },
+  {
+    "product_id": "SKU-1098",
+    "category": "personal_care",
+    "category_label": "Personal Care",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Pure & Co",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "product_type": {
+        "value": "Mineral Sunscreen SPF50",
+        "source": "supplier_field",
+        "confidence": 0.92
+      },
+      "color": {
+        "value": "white",
+        "source": "image",
+        "confidence": 0.9
+      },
+      "material": {
+        "value": "pump bottle",
+        "source": "spec_sheet",
+        "confidence": 0.94
+      },
+      "net_quantity": {
+        "value": "750 g",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "country_of_origin": {
+        "value": "Germany",
+        "source": "supplier_field",
+        "confidence": 0.9
+      },
+      "mrp_inr": {
+        "value": 499,
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "manufacturer_or_importer": {
+        "value": "Pure & Co Pvt Ltd, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.9
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "responsible_person_eu": {
+        "value": "Pure & Co EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      }
+    },
+    "supplier_claims": [
+      "non-comedogenic",
+      "dermatologically tested"
+    ],
+    "image": {
+      "desc": "white Mineral Sunscreen SPF50 in pump bottle",
+      "bg": "grey",
+      "px": 1200,
+      "text_overlay": false,
+      "shows_color": "white"
+    },
+    "raw_text": "Made of pump bottle. Non-comedogenic. Dermatologically tested. Keep in a cool dry place. Net: 750g. Pure & Co Mineral Sunscreen SPF50"
+  },
+  {
+    "product_id": "SKU-1099",
+    "category": "packaged_food",
+    "category_label": "Packaged Food",
+    "regulated": true,
+    "supplier_attributes": {
+      "brand": {
+        "value": "Amrita Naturals",
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "product_type": {
+        "value": "Cold-Pressed Olive Oil",
+        "source": "supplier_field",
+        "confidence": 0.94
+      },
+      "color": {
+        "value": "deep green",
+        "source": "image",
+        "confidence": 0.89
+      },
+      "material": {
+        "value": "glass jar",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      },
+      "net_quantity": {
+        "value": "200 g",
+        "source": "supplier_field",
+        "confidence": 0.88
+      },
+      "country_of_origin": {
+        "value": "Italy",
+        "source": "supplier_field",
+        "confidence": 0.87
+      },
+      "mrp_inr": {
+        "value": 349,
+        "source": "supplier_field",
+        "confidence": 0.99
+      },
+      "manufacturer_or_importer": {
+        "value": "Amrita Naturals Pvt Ltd, Italy",
+        "source": "spec_sheet",
+        "confidence": 0.98
+      },
+      "consumer_care": {
+        "value": "care@example-brand.test",
+        "source": "supplier_field",
+        "confidence": 0.95
+      },
+      "responsible_person_eu": {
+        "value": "Amrita Naturals EU GmbH, Berlin, Germany",
+        "source": "spec_sheet",
+        "confidence": 0.86
+      }
+    },
+    "supplier_claims": [
+      "cold pressed",
+      "single origin"
+    ],
+    "image": {
+      "desc": "deep green Cold-Pressed Olive Oil in glass jar",
+      "bg": "white",
+      "px": 800,
+      "text_overlay": false,
+      "shows_color": "deep green"
+    },
+    "raw_text": "Amrita Naturals Cold-Pressed Olive Oil Net: 200g. Made of glass jar. Keep in a cool dry place. Cold pressed. Single origin."
+  }
+]

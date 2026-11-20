@@ -1,0 +1,171 @@
+{
+  "generated_with": "claude-cli",
+  "listings": [
+    {
+      "product_id": "SKU-1003",
+      "market": "IN",
+      "lang": "en",
+      "channel": "marketplace_a",
+      "direction": "ltr",
+      "listing": {
+        "title": "Nutriva Masala Blend 250 ml - Single Origin Carton Pack, Amber",
+        "bullets": [
+          "Nutriva Masala Blend in a 250 ml carton, sourced from a single origin for consistent character",
+          "No added preservatives - a clean-label masala blend suited to everyday Indian cooking",
+          "Rich amber-toned blend, ready to use in curries, gravies, marinades and rice dishes",
+          "Net quantity 250 ml; MRP Rs. 299 (inclusive of all taxes)",
+          "Imported by Nutriva Pvt Ltd, Spain; country of origin: Spain"
+        ],
+        "description": "Bring a single-origin masala blend to your everyday Indian kitchen with Nutriva Masala Blend. Packed in a 250 ml carton, this amber-toned blend is crafted with no added preservatives, so you get a clean-label pantry staple for your daily cooking. Stir it into curries, dals, gravies, marinades and rice preparations to add a balanced, aromatic base without extra additives. Sourced from a single origin, the blend offers a consistent character from pack to pack. Net quantity: 250 ml. MRP: Rs. 299 (inclusive of all taxes). Country of origin: Spain. Manufacturer / Importer: Nutriva Pvt Ltd, Spain. For product queries or feedback, reach consumer care at care@example-brand.test. Store in a cool, dry place away from direct sunlight; keep the carton closed after use to retain freshness. SKU: SKU-1003.",
+        "keywords": [
+          "nutriva masala blend",
+          "masala blend 250 ml",
+          "single origin masala",
+          "no added preservatives masala",
+          "indian cooking masala",
+          "amber masala blend",
+          "carton pack masala",
+          "nutriva 250ml",
+          "masala for curry",
+          "everyday masala blend"
+        ],
+        "alt_text": "Nutriva Masala Blend 250 ml amber carton pack on a grey background"
+      },
+      "engine": "claude-cli",
+      "model": "claude-opus-4-7",
+      "cost_usd": 0.5088,
+      "wall_ms": 13761
+    },
+    {
+      "product_id": "SKU-1003",
+      "market": "IN",
+      "lang": "hi",
+      "channel": "marketplace_a",
+      "direction": "ltr",
+      "listing": {
+        "title": "Nutriva मसाला ब्लेंड 250 ml — एम्बर रंग, कार्टन पैक, सिंगल ओरिजिन",
+        "bullets": [
+          "Nutriva मसाला ब्लेंड — एम्बर रंग का प्राकृतिक मसाला मिश्रण, 250 ml कार्टन पैक में उपलब्ध।",
+          "सिंगल ओरिजिन स्रोत से तैयार, स्पेन में निर्मित प्रामाणिक गुणवत्ता वाला उत्पाद।",
+          "कोई अतिरिक्त परिरक्षक नहीं — शुद्ध और सरल सामग्री के साथ पैक किया गया।",
+          "सुविधाजनक 250 ml कार्टन पैकेजिंग, रसोई में भंडारण और उपयोग के लिए उपयुक्त।",
+          "निर्माता/आयातक: Nutriva Pvt Ltd, Spain — उपभोक्ता सहायता: care@example-brand.test"
+        ],
+        "description": "Nutriva मसाला ब्लेंड आपकी रसोई के लिए एक विशेष मसाला मिश्रण है, जो 250 ml की सुविधाजनक कार्टन पैकेजिंग में उपलब्ध है। इस उत्पाद का एम्बर रंग इसकी प्राकृतिक विशेषता को दर्शाता है और यह सिंगल ओरिजिन स्रोत से प्राप्त किया गया है, जिससे इसकी प्रामाणिकता बनी रहती है। इसमें कोई अतिरिक्त परिरक्षक नहीं मिलाया गया है, जिससे यह आपके दैनिक भोजन में सरल और शुद्ध स्वाद जोड़ता है। उत्पाद मूल देश: स्पेन। निर्माता/आयातक: Nutriva Pvt Ltd, Spain। यूरोपीय संघ में उत्तरदायी व्यक्ति: Nutriva EU GmbH, Berlin, Germany। अधिकतम खुदरा मूल्य (MRP): ₹299 (सभी करों सहित)। उत्पाद कोड: SKU-1003। किसी भी प्रश्न या सहायता के लिए हमारे उपभोक्ता सेवा केंद्र से संपर्क करें: care@example-brand.test। कार्टन पैकेजिंग उत्पाद को सुरक्षित रखने में सहायक है और इसे ठंडी, सूखी जगह पर संग्रहित करें। उपयोग से पहले लेबल पर दी गई जानकारी अवश्य पढ़ें।",
+        "keywords": [
+          "Nutriva मसाला",
+          "मसाला ब्लेंड",
+          "250 ml मसाला",
+          "सिंगल ओरिजिन मसाला",
+          "बिना परिरक्षक मसाला",
+          "एम्बर मसाला",
+          "कार्टन पैक मसाला",
+          "स्पेन निर्मित मसाला",
+          "भारतीय रसोई मसाला",
+          "Nutriva ब्लेंड"
+        ],
+        "alt_text": "कार्टन पैक में एम्बर रंग का Nutriva मसाला ब्लेंड, ग्रे पृष्ठभूमि पर उत्पाद छवि"
+      },
+      "engine": "claude-cli",
+      "model": "claude-opus-4-7",
+      "cost_usd": 0.1524,
+      "wall_ms": 28053
+    },
+    {
+      "product_id": "SKU-1003",
+      "market": "DE",
+      "lang": "de",
+      "channel": "marketplace_a",
+      "direction": "ltr",
+      "listing": {
+        "title": "Nutriva Masala Blend – Gewürzmischung, 250 ml, bernsteinfarben, Karton, Herkunft Spanien",
+        "bullets": [
+          "Nutriva Masala Blend aus einer einzigen Herkunft (Single Origin) für ein charakteristisches Aroma",
+          "Ohne Zusatz von Konservierungsstoffen – klare Rezeptur für die Küche",
+          "Füllmenge 250 ml in stabiler Kartonverpackung, bernsteinfarbener Inhalt",
+          "Hergestellt in Spanien von Nutriva Pvt Ltd; EU-Verantwortlicher: Nutriva EU GmbH, Berlin",
+          "Verbraucherservice unter care@example-brand.test für Rückfragen und Hinweise"
+        ],
+        "description": "Die Nutriva Masala Blend ist eine Gewürzmischung in bernsteinfarbener Optik, abgefüllt in einer Kartonverpackung mit einer Füllmenge von 250 ml. Die Mischung stammt aus einer einzigen Herkunft (Single Origin) und kommt ohne Zusatz von Konservierungsstoffen aus – so bleibt die Rezeptur klar und übersichtlich. Hergestellt wird die Masala Blend in Spanien durch Nutriva Pvt Ltd. Für den europäischen Markt ist die Nutriva EU GmbH mit Sitz in Berlin, Deutschland, als verantwortliche Person benannt. Dank der handlichen Kartonverpackung lässt sich die Gewürzmischung platzsparend in der Küche oder im Vorratsschrank aufbewahren. Bei Fragen zum Produkt steht der Verbraucherservice unter care@example-brand.test zur Verfügung. Produktkennung: SKU-1003. Hinweis: Bitte beachten Sie die Angaben auf der Originalverpackung zu Zutaten, Aufbewahrung und Haltbarkeit.",
+        "keywords": [
+          "Nutriva",
+          "Masala Blend",
+          "Gewürzmischung",
+          "Single Origin",
+          "ohne Konservierungsstoffe",
+          "250 ml",
+          "Karton",
+          "bernsteinfarben",
+          "Herkunft Spanien",
+          "Gewürze"
+        ],
+        "alt_text": "Kartonverpackung der Nutriva Masala Blend, 250 ml, mit bernsteinfarbenem Inhalt vor grauem Hintergrund"
+      },
+      "engine": "claude-cli",
+      "model": "claude-opus-4-7",
+      "cost_usd": 0.1445,
+      "wall_ms": 16646
+    },
+    {
+      "product_id": "SKU-1003",
+      "market": "AE",
+      "lang": "ar",
+      "channel": "marketplace_a",
+      "direction": "rtl",
+      "listing": {
+        "title": "نوتريفا خلطة بهارات - لون كهرماني، عبوة كرتونية 250 مل، منشأ إسباني",
+        "bullets": [
+          "خلطة بهارات من نوتريفا بلون كهرماني مميز معبأة في عبوة كرتونية سعة 250 مل",
+          "بدون إضافة مواد حافظة للحفاظ على نكهة البهارات الأصلية",
+          "ذات منشأ واحد من إسبانيا لضمان الاتساق في الجودة والنكهة",
+          "عبوة كرتونية عملية بسعة 250 مل مناسبة للاستخدام اليومي في المطبخ",
+          "من علامة نوتريفا، بلد المنشأ إسبانيا"
+        ],
+        "description": "خلطة بهارات نوتريفا بلون كهرماني طبيعي، معبأة في عبوة كرتونية سعة 250 مل. تتميز هذه الخلطة بأنها ذات منشأ واحد من إسبانيا، مما يضمن اتساق النكهة والجودة في كل استخدام. تم تحضير هذه الخلطة بدون إضافة أي مواد حافظة، للحفاظ على الطابع الأصيل للبهارات ونكهتها الطبيعية. العبوة الكرتونية عملية وسهلة الاستخدام، وتناسب الاستخدام اليومي في المطبخ لإضافة لمسة مميزة إلى أطباقك المفضلة. المنتج من إنتاج نوتريفا المحدودة في إسبانيا، ويتم استيراده وتوزيعه بما يتوافق مع متطلبات السوق الإماراتي. للاستفسارات، يمكن التواصل مع خدمة العملاء عبر البريد الإلكتروني المخصص. رقم المنتج: SKU-1003.",
+        "keywords": [
+          "نوتريفا",
+          "خلطة بهارات",
+          "بهارات كهرمانية",
+          "بهارات إسبانية",
+          "عبوة كرتونية",
+          "250 مل",
+          "بدون مواد حافظة",
+          "منشأ واحد",
+          "بهارات طبيعية",
+          "توابل"
+        ],
+        "alt_text": "عبوة كرتونية لخلطة بهارات نوتريفا بلون كهرماني على خلفية رمادية"
+      },
+      "engine": "claude-cli",
+      "model": "claude-opus-4-7",
+      "cost_usd": 0.1434,
+      "wall_ms": 21438
+    }
+  ],
+  "guardrail": {
+    "product_id": "SKU-1020",
+    "risky_supplier_claims": [
+      "medically guaranteed whitening"
+    ],
+    "claims_dropped_by_claude": [
+      "medically guaranteed whitening"
+    ],
+    "validator_passed": true,
+    "listing": {
+      "title": "Baraka Botanics Charcoal Soap Bar – Fragrance-Free, Non-Comedogenic | 250 g",
+      "bullets": [
+        "Fragrance-free formula, suitable for daily cleansing routines",
+        "Non-comedogenic: formulated to help avoid clogging pores",
+        "Net quantity: 250 g per bar",
+        "Country of origin: Spain; MRP ₹699 inclusive of all taxes",
+        "Consumer care: care@example-brand.test"
+      ],
+      "description": "The Baraka Botanics Charcoal Soap Bar is a fragrance-free, non-comedogenic cleansing bar designed for everyday use. Each bar has a net quantity of 250 g and is presented in the brand's signature white. Country of origin: Spain. Manufactured/Imported by Baraka Botanics Pvt Ltd, Spain. MRP ₹699 (inclusive of all taxes). For consumer queries, please contact care@example-brand.test. Product ID: SKU-1020."
+    },
+    "model": "claude-opus-4-7",
+    "cost_usd": 0.1678,
+    "claude_compliance_note": "Note: The 'medically guaranteed whitening' claim supplied with this product has been omitted from this listing as it is a medical/health claim and contains a term restricted by marketplace content policy; only the compliant approved claims (fragrance-free, non-comedogenic) are used here.",
+    "validator_violations": []
+  },
+  "total_cost_usd": 1.117
+}

@@ -1,0 +1,14 @@
+services:
+  shelfready:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # The real Claude path uses the `claude` CLI, not an API key. The default
+      # offline engine needs nothing, so the demo runs out of the box.
+      - SHELFREADY_CLAUDE_BIN=claude
+    # To use the real Claude CLI from inside the container, mount your logged-in
+    # claude config and binary, e.g.:
+    #   volumes:
+    #     - ~/.claude:/root/.claude:ro
+    #     - $(which claude):/usr/local/bin/claude:ro

@@ -1,0 +1,55 @@
+# ShelfReady — market compliance rules (ILLUSTRATIVE, fully synthetic).
+#
+# Compliance as configuration: these rules are DATA, not code. A compliance or
+# merchandising team edits this file; no engineer and no redeploy is needed, and
+# every rule is versioned (see `version`). The entries below are simplified,
+# plausible examples inspired by public regimes — they are NOT legal advice and
+# a client replaces them with its own authority-approved rules.
+version: "2026.11"
+
+markets:
+  IN:
+    label: "India"
+    languages: [en, hi]                # English + Hindi
+    direction: ltr
+    currency: INR
+    unit_system: metric
+    # Legal Metrology-style declarations for packaged goods listings.
+    required_attributes:
+      - mrp_inr
+      - net_quantity
+      - manufacturer_or_importer
+      - country_of_origin
+      - consumer_care
+    forbidden_terms: ["best", "#1", "cure", "cures", "miracle", "guaranteed"]
+    claim_substantiation: true         # health/eco claims must be grounded
+    reference: "Legal Metrology (Packaged Commodities) style declarations"
+
+  DE:
+    label: "Germany"
+    languages: [de]
+    direction: ltr
+    currency: EUR
+    unit_system: metric
+    required_attributes:
+      - net_quantity
+      - responsible_person_eu
+      - manufacturer_or_importer
+      - country_of_origin
+    forbidden_terms: ["heilt", "garantiert", "wunder", "beste"]
+    claim_substantiation: true
+    reference: "EU product-information language + safety responsible-person style"
+
+  AE:
+    label: "United Arab Emirates"
+    languages: [ar]
+    direction: rtl                     # right-to-left layout + output
+    currency: AED
+    unit_system: metric
+    required_attributes:
+      - net_quantity
+      - manufacturer_or_importer
+      - country_of_origin
+    forbidden_terms: ["يعالج", "معجزة", "مضمون", "الأفضل"]  # cures/miracle/guaranteed/best
+    claim_substantiation: true
+    reference: "UAE marketplace listing + Arabic-language requirement style"

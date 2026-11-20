@@ -1,0 +1,64 @@
+# ShelfReady — channel rules (ILLUSTRATIVE, fully synthetic).
+#
+# Channel = where the listing is published. Each channel has its own field
+# limits and image spec. Effective rules for a listing = market rules + channel
+# rules, composed at validation time. Editable by non-engineers; versioned.
+version: "2026.11"
+
+channels:
+  brand_site:
+    label: "Brand Website"
+    title:
+      max_length: 90
+      must_include: [brand, product_type]
+    bullets:
+      min: 3
+      max: 6
+      max_length_each: 160
+    description:
+      min_length: 120
+      max_length: 1200
+    keywords:
+      min: 4
+      max: 12
+    forbidden_terms: []                # inherits market forbidden terms
+    images:
+      main: { background: any, min_px: 800, text_overlay: false }
+
+  marketplace_a:
+    label: "Marketplace A"
+    title:
+      max_length: 150
+      must_include: [brand, product_type]
+    bullets:
+      min: 3
+      max: 5
+      max_length_each: 120
+    description:
+      min_length: 100
+      max_length: 2000
+    keywords:
+      min: 5
+      max: 15
+    forbidden_terms: ["free shipping", "lowest price", "click here"]
+    images:
+      main: { background: white, min_px: 1000, text_overlay: false }
+
+  marketplace_b:
+    label: "Marketplace B"
+    title:
+      max_length: 120
+      must_include: [brand, product_type]
+    bullets:
+      min: 2
+      max: 5
+      max_length_each: 100
+    description:
+      min_length: 80
+      max_length: 1500
+    keywords:
+      min: 3
+      max: 10
+    forbidden_terms: ["sale", "discount", "buy now"]
+    images:
+      main: { background: white, min_px: 1200, text_overlay: false }
